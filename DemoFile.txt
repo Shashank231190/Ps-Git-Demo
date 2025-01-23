@@ -2,4 +2,6 @@ MyDemo
 Testing conflict with demo
 Creating Conflict - added entry from GitHub web
 conflict 2 from local
+Conflict 2 from web
+
 

@@ -1,2 +1,3 @@
 MyDemo
 Testing conflict with demo
+Creating conflict - Added from local git

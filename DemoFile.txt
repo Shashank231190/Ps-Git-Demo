@@ -1,7 +1,4 @@
 MyDemo
 Testing conflict with demo
-<<<<<<< HEAD
-Creating conflict - Added from local git
-=======
 Creating Conflict - added entry from GitHub web
->>>>>>> 855d4714d37855476c242c6d81c48cde53e13ac0
+

@@ -1,4 +1,5 @@
 MyDemo
 Testing conflict with demo
 Creating Conflict - added entry from GitHub web
+Conflict 2 from web
 
